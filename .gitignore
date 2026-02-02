@@ -1,2 +1,4 @@
 .env
+.idea
 data/monitoring.db
+__pycache__
